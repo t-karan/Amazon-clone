@@ -3,7 +3,7 @@ HERE’S HOW WE VALIDATE CONTRIBUTOR PULL/MERGE REQUESTS (“PR/MRS”) FOR HACK
 
 [ OUT-OF-BOUNDS ]
 **YOUR PR/MRS MUST BE WITHIN THE BOUNDS OF HACKTOBERFEST.**
-#Your PR/MRs must be created between October 1 and October 31 (in any time zone, UTC-12 thru UTC+14).
+Your PR/MRs must be created between October 1 and October 31 (in any time zone, UTC-12 thru UTC+14).
 
 Your PR/MRs must be made to a public, unarchived repository.
 
